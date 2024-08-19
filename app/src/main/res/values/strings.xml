@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Fragments_DEPI</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="my_cart">My Cart</string>
+    <string name="browse">Browse</string>
+    <string name="meal_plans">Meal Plans</string>
+    <string name="login">Login</string>
+    <string name="name">Name</string>
+    <string name="password">Password\n</string>
+</resources>
